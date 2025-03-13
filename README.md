@@ -28,17 +28,15 @@ Esta app tiene tres funcionalidades principales:
 
 ## 📸 Capturas de Pantalla
 
-_Añade imágenes aquí para hacer el README más atractivo._  
-Ejemplo:
 
-![Icon Launcher](images/ic_launcher.webp)
-![Splash Screen](images/splash_screen.webp)
-![Menu Screen](images/menu_screen.webp)
-![Api List Screen](images/api_list_screen.webp)
-![Api Detail Screen](images/api_detail_screen.webp)
-![Notes Screen](images/notes_screen.webp)
-![Enter Data Screen](images/enter_data_screen.webp)
-![Show Data Screen](images/show_data_screen.webp)
+<img src="images/ic_launcher.webp" width="300"/>
+<img src="images/splash_screen.webp" width="300"/>
+<img src="images/menu_screen.webp" width="300"/>
+<img src="images/api_list_screen.webp" width="300"/>
+<img src="images/api_detail_screen.webp" width="300"/>
+<img src="images/notes_screen.webp" width="300"/>
+<img src="images/enter_data_screen.webp" width="300"/>
+<img src="images/show_data_screen.webp" width="300"/>
 
 ---
 
